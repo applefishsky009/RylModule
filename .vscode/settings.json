@@ -4,6 +4,10 @@
         "vector": "cpp",
         "ostream": "cpp",
         "deque": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "algorithm": "cpp"
     }
 }
