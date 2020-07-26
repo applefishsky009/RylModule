@@ -5,6 +5,7 @@
 #include <chrono>
 #include <random>
 #include <algorithm>
+using namespace std;
 
 // 快排, 为了优化最坏情况, 进行随机初始化
 // time: O(nlgn)
